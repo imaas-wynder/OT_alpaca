@@ -1,0 +1,31 @@
+.viewer-div {
+    position: absolute;
+    width: 70%;
+    height: 80%;
+  }
+
+.compare-div {
+    position: absolute;
+    width: 98%;
+    height: 80%;
+  }
+  
+.viewer-html-div {
+  position: absolute;
+  width: 70%;
+  height: 80%;
+  border: 1px outset black;
+  background-color: #fff;
+}
+  
+.viewer-full-div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.viewer-rel-div {
+  position: relative;
+  width: 68vw;
+  height: calc(80vh - 80px);
+}
